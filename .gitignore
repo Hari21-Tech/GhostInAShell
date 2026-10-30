@@ -1,0 +1,10 @@
+target/
+dist/
+input/
+.dual-graph/
+.claude/
+CLAUDE.md
+dependency-reduced-pom.xml
+.idea/
+*.iml
+.DS_Store
